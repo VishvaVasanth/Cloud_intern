@@ -1,0 +1,18 @@
+GitHub task
+
+=> created  new repo for github task as cloud_inter.
+=> clone that repo on my laptop in d:cloud_inter directory.
+=> cd to repo and checkout to branch dev.
+=> to add new file create new branch as chore/init-workflow
+=> create BRANCHING_STRATEGY.md and create PULL_REQUEST_TEMPLATE.md in .github folder.
+=> add . , commit, push to chore/init-workflow.
+=> got pull req in github dashboard click that and review it pull that  
+=> checked merge without apporval because i'm super user.
+=> delete chore/init-workflow branch because this is temp branch.
+=> same procedure for main branch pull request from dev branch. 
+=> important dont delete dev because dev is permanent branch.
+
+
+=> tesing dev direct push
+
+=> testing dev  direct push thourgh normal user
